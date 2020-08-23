@@ -1,5 +1,6 @@
 # Datavidia 2019 [Elimination Round] - Solution
-This repository contains solution **(Python Notebook)** from team **Ednoer Squad** and data for the **Datavidia 2019 [Elimination Round]** competition 
+This repository contains solution **(Python Notebook)** from team **Ednoer Squad** ***(2nd Place Private Leaderboard)*** 
+and data for the **Datavidia 2019 [Elimination Round]** competition 
 held on the Kaggle Inclass platform.
 
 **Kaggle Competitions Link :** https://www.kaggle.com/c/datavidia2019
